@@ -21,6 +21,9 @@ that in version 2 will be solved, making it more user-friendly
 
 ## Author Information
 
-Steven Cardona [Link Github](https://github.com/stevencar2004).
+### Steven Cardona - FrontEnd Developer
 
-Steven Cardona [Link Linkedin](https://www.linkedin.com/in/stevencardona/).
+My social networks
+
+ + [Link Github](https://github.com/stevencar2004).
+ + [Link Linkedin](https://www.linkedin.com/in/stevencardona/).
